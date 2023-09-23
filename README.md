@@ -1,8 +1,11 @@
-# ExamenFinal
-![image](https://github.com/braystwart/ExamenFinalReconocUTEQ/assets/122955578/eab89d9b-14e2-44e5-bfe2-517f51d8bd61)
-![image](https://github.com/braystwart/ExamenFinalReconocUTEQ/assets/122955578/5df18017-cdf4-4903-a5c8-cee96b82be34)
-![image](https://github.com/braystwart/ExamenFinalReconocUTEQ/assets/122955578/181465d4-6e93-4bc7-b60a-34f177eef544)
-![image](https://github.com/braystwart/ExamenFinalReconocUTEQ/assets/122955578/a9aba552-f99d-4a33-ae4c-68209396873b)
+# ExamenFinal: Reconocimiento UTEQ Campus "La María"
+![image](https://github.com/Laroski/ExamenFinalUTEQLaMaria/assets/127622019/6398ca12-432d-4f45-b7d9-a103b2c8a682)
+![image](https://github.com/Laroski/ExamenFinalUTEQLaMaria/assets/127622019/a47459c2-4219-4a01-a322-283b4e3b6162)
+![image](https://github.com/Laroski/ExamenFinalUTEQLaMaria/assets/127622019/b44cab8e-9e9e-470f-9039-0e1ebaf79597)
+![image](https://github.com/Laroski/ExamenFinalUTEQLaMaria/assets/127622019/28b000e5-884d-4360-9f05-cf6e97346f76)
+![image](https://github.com/Laroski/ExamenFinalUTEQLaMaria/assets/127622019/85022b02-c40c-436a-8177-1eea2d8c1a1c)
+
+
 
 
 
